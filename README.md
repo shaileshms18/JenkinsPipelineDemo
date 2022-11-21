@@ -1,2 +1,0 @@
-# JenkinsPipelineDemo
-okay
